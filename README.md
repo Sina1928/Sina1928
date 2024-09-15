@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sina1928" alt="sina1928" /></a> </p>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sina1928" alt="GitHub Streak" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
